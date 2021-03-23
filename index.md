@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+![asd](https://www.uchile.cl/uchile/ImageServlet?idDocumento=5688&indice=0)
 
-You can use the [editor on GitHub](https://github.com/smassas/r_mcs2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Herramientas computacionales para análisis de datos con R
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Instalación de R y RStudio
 
-### Markdown
+En este curso utilizaremos R a través del IDE RStudio. ¿Qué es un IDE? IDE es el acrónimo de Integrated Development Environment (Entorno de Desarrollo Integrado). Esto quiere decir que RStudio es una aplicación que nos entrega herramientas para hacer más fácil el desarrollo de proyectos usando R.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Para poder instalar R y RStudio, sigue los siguientes pasos:
 
-```markdown
-Syntax highlighted code block
+#### 1. Descarga R desde https://cran.r-project.org/. Debes elegir la opción que corresponda, según tu sistema operativo.
+***
 
-# Header 1
-## Header 2
-### Header 3
+<img src = "https://miro.medium.com/max/2304/1*hd0_QLa2rvif_8sjCwztww.gif" height = "380" width = "700">
 
-- Bulleted
-- List
+#### 2. Instala R en tu computador, tal como lo haces con cualquier programa.
+***
 
-1. Numbered
-2. List
+<img src = "https://miro.medium.com/max/1592/1*RQoZMTx5cuGbpe-TpgvXjA.gif" height = "380" width = "700">
 
-**Bold** and _Italic_ and `Code` text
+#### 3. Una vez que R ha quedado correctamente instalado, descarga RStudio en https://www.rstudio.com/products/rstudio/download.
+***
 
-[Link](url) and ![Image](src)
-```
+<img src = "https://miro.medium.com/max/2336/1*bkf1Bm8AybynNXfL_f4z3g.gif" height = "380" width = "700" >
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### 4. Instala RStudio en tu computador, tal como lo haces con cualquier programa.
 
-### Jekyll Themes
+***
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/smassas/r_mcs2021/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<img src = "https://i2.wp.com/ajaytech.co/wp-content/uploads/2020/02/install-r-studio.gif?resize=748%2C584&ssl=1" height = "380" width = "560" >
 
-### Support or Contact
+#### 5. Si quedó todo bien instalado, cuando abras RStudio deberías ver algo así:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+***
+
+<img src = "https://github.com/rivaquiroga/taller-R-BCN/raw/master/imagenes/rstudio.png"  height = "380" width = "700">
